@@ -27,11 +27,3 @@ def say_hello_ten_times
 end
 
 say_hello_ten_times
-
-def greeting
-  puts 'Hello There!'
-end
-
-greeting
-
-greeting
